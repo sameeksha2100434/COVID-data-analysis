@@ -1,7 +1,19 @@
-# COVID-data-analysis
-
+# COVID-19 Analysis With Python
+## Create a complete COVID-19 report using Python and its powerful data science packages.
 ![cold](https://github.com/sameeksha2100434/COVID-data-analysis/assets/109462828/f66f2489-b3c0-4bca-84e4-b45b8613b7d7)
 
+I am going to walk you through the steps I undertook for this analysis with visuals and code snippets.
+
+#### Steps involved in Data Analysis:
+1.Importing required packages
+
+2. Gathering Data
+
+3. Transforming Data to our needs (Data Wrangling)
+
+4. Exploratory Data Analysis (EDA) and Visualization
+
+#  Introduction
 COVID-19 is the disease caused by a coronavirus called SARS-CoV-2.  WHO first learned of this new virus on 31 December 2019, following a report of a cluster of cases of so-called viral pneumonia in Wuhan, People’s Republic of China.
 # What should I do if I have COVID-19 symptoms?
 --> If you are unwell, stay at home.
