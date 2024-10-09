@@ -1,7 +1,7 @@
 # COVID-19 Analysis With Python
 ### CORONA VIRUS PANDEMIC DATA ANALYSIS AND PREDICTION MODELING USING DATA MINING TECHNIQUES: 
 ## Tech used : Python, Matplotlib , tkinter library 
---> Implemented a comprehensive data mining and analytics project centered on COVID-19 pandemic, Demonstrating the efficiency of the model in forecasting pandemic trends to construct predictive models and also developed an intuitive user interface. 
+--> Implemented a comprehensive data mining and analytics project centered on COVID-19 pandemic, Demonstrating the efficiency of the model in forecasting pandemic trends to construct predictive models and also developed an intuitive user interface. <br>
 --> Yielding impressive accuracy rates: 90% for less than 200 cases, 82% for 200-1000 cases, and 87% for cases exceeding 1000.
 
 ## Create a complete COVID-19 report using Python and its powerful data science packages.
