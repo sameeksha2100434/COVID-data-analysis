@@ -5,7 +5,7 @@
 
 ### 📊 Project Overview
 This project involves a comprehensive data mining and analytics approach focused on the COVID-19 pandemic. It showcases the efficiency of forecasting models in predicting pandemic trends and features an intuitive user interface for user interaction.
--**Datasets Used:** 2 real life data-sets in the format of CSV files, called : covid_19_data.csv and covid19_line_list_data_modified.
+- **Datasets Used:** 2 real life data-sets in the format of CSV files, called : covid_19_data.csv and covid19_line_list_data_modified.
 
 
 ### 🎯 Key Achievements
